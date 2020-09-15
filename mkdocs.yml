@@ -1,0 +1,8 @@
+site_name: Service-name
+nav:
+    - Home: index.md
+    - 'Technical Documentation': techdoc.md
+    - 'Development Team': devteam.md
+theme: readthedocs
+plugins:
+    - techdocs-core
